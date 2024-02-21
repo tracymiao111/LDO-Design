@@ -1,0 +1,131 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Apr 29 18:18:23 2023 
+Best design point: 1
+Design specs: 
+	ece483_sp23_ea_1	corner	Nominal - 
+	LG0		108.3
+	LG_fUGF		7.781M
+	Phase Margin		78.36
+	Gain Margin		14.54
+	Vout_EA		1.119
+	Vout		1.4
+	IL		20m
+	Itot		20.98m
+	IQ		977.2u
+	ImirrorP		10u
+	ImirrorN		10.18u
+	IoutL		5.113u
+	IouttailL_P		66.89u
+	IouttailL_N		66.74u
+	IoutR		5.113u
+	IouttailR_P		66.89u
+	IouttailR_N		66.74u
+	ItailDiff_P		123.2u
+	IdiffL_P		61.62u
+	IdiffR_P		61.62u
+	ItailDiff_N		123.5u
+	IdiffL_N		61.77u
+	IdiffR_N		61.78u
+	Pass_PMOS_Region		2
+	Pass_PMOS_gm		189.8m
+	Pass_PMOS_rds		138.8
+	Pass_PMOS_vov		205.4m
+	Pass_PMOS_vdsat		179.8m
+	Mirror_P_Top_Region		2
+	Mirror_P_Top_vov		95.84m
+	Mirror_P_1/3x_Region		1
+	Mirror_P_1/3x_vov		245.5m
+	Mirror_P_1x_Region		2
+	Mirror_P_1x_vov		90.15m
+	vbp1		1.261
+	vbp2		1.125
+	Mirror_N_TopTail_Region		2
+	Mirror_N_TopTail_vov		95.73m
+	Miror_N_1x_Region		2
+	Miror_N_1x_vov		82.09m
+	Miror_N_1/3x_Region		1
+	Miror_N_1/3x_vov		196.3m
+	Miror_N_Sec_Region		2
+	Miror_N_Sec_vov		97.34m
+	vbn1		525.9m
+	vbn2		650.8m
+	DiffTailRegion_P		2
+	DiffTail_gm_P		2.011m
+	DiffTail_rds_P		51.46K
+	Difftail_vov_P		95.01m
+	Diff_L_Region_P		2
+	Diff_L_gm_P		1.139m
+	Diff_L_rds_P		115.2K
+	Diff_L_vov_P		58.89m
+	Diff_R_Region_P		2
+	Diff_R_gm_P		1.139m
+	Diff_R_rds_P		115.2K
+	Diff_R_vov_P		58.89m
+	DiffTailRegion_N		2
+	DiffTail_gm_N		2.103m
+	DiffTail_rds_N		24.74K
+	Difftail_vov_N		95.27m
+	Diff_L_Region_N		2
+	Diff_L_gm_N		1.147m
+	Diff_L_rds_N		99.6K
+	Diff_L_vov_N		71m
+	Diff_R_Region_N		2
+	Diff_R_gm_N		1.147m
+	Diff_R_rds_N		99.59K
+	Diff_R_vov_N		71m
+	L_Bottom_Region		2
+	L_Bottom_gm		1.091m
+	L_Bottom_rds		23.26K
+	L_Bottom_vov		102.3m
+	R_Bottom_Region		2
+	R_Bottom_gm		1.091m
+	R_Bottom_rds		23.23K
+	R_Bottom_vov		102.3m
+	L_NMOS_Region		2
+	L_NMOS_gm		109.4u
+	L_NMOS_rds		100.1K
+	L_NMOS_vov		27.18m
+	R_NMOS_Region		2
+	R_NMOS_gm		109.3u
+	R_NMOS_rds		96.73K
+	R_NMOS_vov		27.25m
+	L_CAS_NMOS_Region		2
+	L_CAS_NMOS_gm		113u
+	L_CAS_NMOS_rds		966.5K
+	L_CAS_NMOS_vov		19.86m
+	R_CAS_NMOS_Region		2
+	R_CAS_NMOS_gm		113.1u
+	R_CAS_NMOS_rds		959.8K
+	R_CAS_NMOS_vov		20.26m
+	L_CAS_PMOS_Region		2
+	L_CAS_PMOS_gm		108.4u
+	L_CAS_PMOS_rds		937.3K
+	L_CAS_PMOS_vov		22.97m
+	R_CAS_PMOS_Region		2
+	R_CAS_PMOS_gm		108.5u
+	R_CAS_PMOS_rds		1.033M
+	R_CAS_PMOS_vov		21.79m
+	L_PMOS_Region		2
+	L_PMOS_gm		105.5u
+	L_PMOS_rds		152.9K
+	L_PMOS_vov		27.01m
+	R_PMOS_Region		2
+	R_PMOS_gm		105.6u
+	R_PMOS_rds		157.7K
+	R_PMOS_vov		26.95m
+	L_Top_Region		2
+	L_Top_gm		1.001m
+	L_Top_rds		25.74K
+	L_Top_vov		112m
+	R_Top_Region		2
+	R_Top_gm		1.001m
+	R_Top_rds		25.77K
+	R_Top_vov		112m
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Sat Apr 29 18:18:42 2023 
